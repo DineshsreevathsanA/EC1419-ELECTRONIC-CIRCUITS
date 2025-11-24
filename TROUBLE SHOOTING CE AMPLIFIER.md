@@ -8,6 +8,14 @@
 
 ## Tabulations 
 
+<img width="781" height="1280" alt="image" src="https://github.com/user-attachments/assets/78087ac3-2c08-4632-ad87-ea0a75916984" />
+
+<img width="769" height="1280" alt="image" src="https://github.com/user-attachments/assets/07f0f0fd-213a-46c4-8ac8-e98295b5e4fd" />
+
 ## Semilog Graph
 
+<img width="906" height="1280" alt="image" src="https://github.com/user-attachments/assets/d7ab5d39-f254-448a-baa9-2e7b2d43e3f9" />
+
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+
+<img width="1150" height="674" alt="image" src="https://github.com/user-attachments/assets/fc8e226a-51fb-49fa-a0ca-fa1f6a8d9586" />

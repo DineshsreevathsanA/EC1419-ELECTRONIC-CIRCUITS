@@ -6,5 +6,7 @@
 
 
 ## TINKER CAD OUTPUT CIRCUIT
+<img width="729" height="1280" alt="image" src="https://github.com/user-attachments/assets/5b8f5383-4173-4c8b-8942-7173c2fa7528" />
+<img width="1280" height="786" alt="image" src="https://github.com/user-attachments/assets/86df3b45-7d37-4be8-a055-8b4c973522a5" />
 
 <img width="831" height="157" alt="image" src="https://github.com/user-attachments/assets/08c25fa5-a963-4100-8ea2-4c7e2669bb49" />
